@@ -4,6 +4,12 @@
 A **personalized daily life activity tracker** that detects attention and inattention states using upper-body posture data captured through a webcam.  
 This project is fully trained on **my own dataset**, making it unique and adaptive to your daily behavior patterns.
 
+Sure — here’s the **updated intro section** with your YouTube link integrated cleanly and professionally:
+
+---
+
+🎥 **Watch the demo on YouTube:** [https://www.youtube.com/watch?v=C1pzGJKeFcU](https://www.youtube.com/watch?v=C1pzGJKeFcU)
+
 ---
 
 ## ✨ Features
@@ -42,6 +48,7 @@ daily-life-tracker/
    -- attention_classifier.pkl  # Trained RandomForest model
    -- scaler.pkl                # StandardScaler for normalization
 
+-- attention_log.json           # save it for app data
 -- requirements.txt
 -- LINCENSE.md
 -- README.md

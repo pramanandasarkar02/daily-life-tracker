@@ -1,0 +1,2117 @@
+{
+  "sessions": [
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:25:47.837839",
+      "end_time": "2025-10-26T18:25:51.430470",
+      "duration": 3.592631
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:25:51.430470",
+      "end_time": "2025-10-26T18:25:52.151910",
+      "duration": 0.72144
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:29:37.310941",
+      "end_time": "2025-10-26T18:29:39.969753",
+      "duration": 2.658812
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:29:39.969753",
+      "end_time": "2025-10-26T18:29:44.131033",
+      "duration": 4.16128
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:29:44.131033",
+      "end_time": "2025-10-26T18:29:51.574891",
+      "duration": 7.443858
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:29:51.574891",
+      "end_time": "2025-10-26T18:29:53.297577",
+      "duration": 1.722686
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:29:53.297577",
+      "end_time": "2025-10-26T18:29:59.959305",
+      "duration": 6.661728
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:29:59.959305",
+      "end_time": "2025-10-26T18:30:01.681314",
+      "duration": 1.722009
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:30:01.681314",
+      "end_time": "2025-10-26T18:30:04.231838",
+      "duration": 2.550524
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:30:04.231838",
+      "end_time": "2025-10-26T18:30:10.285093",
+      "duration": 6.053255
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:30:10.285093",
+      "end_time": "2025-10-26T18:30:10.374077",
+      "duration": 0.088984
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:30:10.374077",
+      "end_time": "2025-10-26T18:30:10.412648",
+      "duration": 0.038571
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:30:10.412648",
+      "end_time": "2025-10-26T18:30:10.514037",
+      "duration": 0.101389
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:30:10.514037",
+      "end_time": "2025-10-26T18:30:10.702033",
+      "duration": 0.187996
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:30:10.702033",
+      "end_time": "2025-10-26T18:30:10.801258",
+      "duration": 0.099225
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:30:10.801258",
+      "end_time": "2025-10-26T18:30:11.554453",
+      "duration": 0.753195
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:30:11.554453",
+      "end_time": "2025-10-26T18:30:11.647856",
+      "duration": 0.093403
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:30:11.647856",
+      "end_time": "2025-10-26T18:30:12.027164",
+      "duration": 0.379308
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:30:12.027164",
+      "end_time": "2025-10-26T18:30:12.157158",
+      "duration": 0.129994
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:30:12.157158",
+      "end_time": "2025-10-26T18:30:12.197932",
+      "duration": 0.040774
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:30:12.197932",
+      "end_time": "2025-10-26T18:30:12.326117",
+      "duration": 0.128185
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:30:12.326117",
+      "end_time": "2025-10-26T18:30:12.458851",
+      "duration": 0.132734
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:30:12.458851",
+      "end_time": "2025-10-26T18:30:12.605653",
+      "duration": 0.146802
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:30:12.605653",
+      "end_time": "2025-10-26T18:30:12.820845",
+      "duration": 0.215192
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:30:12.820845",
+      "end_time": "2025-10-26T18:30:12.906664",
+      "duration": 0.085819
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:30:12.906664",
+      "end_time": "2025-10-26T18:30:13.172401",
+      "duration": 0.265737
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:30:13.172401",
+      "end_time": "2025-10-26T18:30:13.272782",
+      "duration": 0.100381
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:30:13.272782",
+      "end_time": "2025-10-26T18:30:13.398944",
+      "duration": 0.126162
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:30:13.398944",
+      "end_time": "2025-10-26T18:30:13.490725",
+      "duration": 0.091781
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:30:13.490725",
+      "end_time": "2025-10-26T18:30:18.348213",
+      "duration": 4.857488
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:30:18.348213",
+      "end_time": "2025-10-26T18:30:22.084610",
+      "duration": 3.736397
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:30:22.084610",
+      "end_time": "2025-10-26T18:30:23.264443",
+      "duration": 1.179833
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:30:23.264443",
+      "end_time": "2025-10-26T18:30:25.680512",
+      "duration": 2.416069
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:30:25.680512",
+      "end_time": "2025-10-26T18:30:26.205348",
+      "duration": 0.524836
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:31:35.771103",
+      "end_time": "2025-10-26T18:31:48.038393",
+      "duration": 12.26729
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:31:48.038393",
+      "end_time": "2025-10-26T18:31:48.803394",
+      "duration": 0.765001
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:31:48.803394",
+      "end_time": "2025-10-26T18:32:06.953125",
+      "duration": 18.149731
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:32:06.953125",
+      "end_time": "2025-10-26T18:32:16.971182",
+      "duration": 10.018057
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:32:16.971182",
+      "end_time": "2025-10-26T18:32:17.171662",
+      "duration": 0.20048
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:32:17.171662",
+      "end_time": "2025-10-26T18:32:19.237990",
+      "duration": 2.066328
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:32:19.237990",
+      "end_time": "2025-10-26T18:32:31.119415",
+      "duration": 11.881425
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:32:31.119415",
+      "end_time": "2025-10-26T18:32:31.674191",
+      "duration": 0.554776
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:32:31.674191",
+      "end_time": "2025-10-26T18:32:36.197003",
+      "duration": 4.522812
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:32:36.197003",
+      "end_time": "2025-10-26T18:32:36.662869",
+      "duration": 0.465866
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:32:36.662869",
+      "end_time": "2025-10-26T18:32:38.130450",
+      "duration": 1.467581
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:32:38.130450",
+      "end_time": "2025-10-26T18:32:40.139939",
+      "duration": 2.009489
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:32:40.139939",
+      "end_time": "2025-10-26T18:32:42.817452",
+      "duration": 2.677513
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:32:42.817452",
+      "end_time": "2025-10-26T18:32:43.900953",
+      "duration": 1.083501
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:32:43.900953",
+      "end_time": "2025-10-26T18:32:44.078607",
+      "duration": 0.177654
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:32:44.078607",
+      "end_time": "2025-10-26T18:32:45.753724",
+      "duration": 1.675117
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:32:45.753724",
+      "end_time": "2025-10-26T18:32:47.768721",
+      "duration": 2.014997
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:32:47.768721",
+      "end_time": "2025-10-26T18:32:49.133967",
+      "duration": 1.365246
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:32:49.133967",
+      "end_time": "2025-10-26T18:32:50.343976",
+      "duration": 1.210009
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:32:50.343976",
+      "end_time": "2025-10-26T18:32:51.265142",
+      "duration": 0.921166
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:32:51.265142",
+      "end_time": "2025-10-26T18:32:56.458730",
+      "duration": 5.193588
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:32:56.458730",
+      "end_time": "2025-10-26T18:32:59.730318",
+      "duration": 3.271588
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:32:59.730318",
+      "end_time": "2025-10-26T18:33:08.504895",
+      "duration": 8.774577
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:33:08.504895",
+      "end_time": "2025-10-26T18:33:09.572797",
+      "duration": 1.067902
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:33:09.572797",
+      "end_time": "2025-10-26T18:33:16.721767",
+      "duration": 7.14897
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:33:16.721767",
+      "end_time": "2025-10-26T18:33:17.749238",
+      "duration": 1.027471
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:33:17.749238",
+      "end_time": "2025-10-26T18:33:18.011890",
+      "duration": 0.262652
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:33:18.011890",
+      "end_time": "2025-10-26T18:33:24.629080",
+      "duration": 6.61719
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:33:24.629080",
+      "end_time": "2025-10-26T18:33:25.124458",
+      "duration": 0.495378
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:33:25.124458",
+      "end_time": "2025-10-26T18:33:27.456103",
+      "duration": 2.331645
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:33:27.456103",
+      "end_time": "2025-10-26T18:33:30.499049",
+      "duration": 3.042946
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:33:30.499049",
+      "end_time": "2025-10-26T18:33:33.310845",
+      "duration": 2.811796
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:33:33.310845",
+      "end_time": "2025-10-26T18:33:36.405801",
+      "duration": 3.094956
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:33:36.405801",
+      "end_time": "2025-10-26T18:33:36.714656",
+      "duration": 0.308855
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:33:36.714656",
+      "end_time": "2025-10-26T18:33:36.926924",
+      "duration": 0.212268
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:33:36.926924",
+      "end_time": "2025-10-26T18:33:37.860317",
+      "duration": 0.933393
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:33:37.860317",
+      "end_time": "2025-10-26T18:33:41.765205",
+      "duration": 3.904888
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:33:41.765205",
+      "end_time": "2025-10-26T18:33:43.384170",
+      "duration": 1.618965
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:33:43.384170",
+      "end_time": "2025-10-26T18:33:48.378337",
+      "duration": 4.994167
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:33:48.378337",
+      "end_time": "2025-10-26T18:33:48.552354",
+      "duration": 0.174017
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:33:48.552354",
+      "end_time": "2025-10-26T18:33:48.578890",
+      "duration": 0.026536
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:33:48.578890",
+      "end_time": "2025-10-26T18:33:48.740142",
+      "duration": 0.161252
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:33:48.740142",
+      "end_time": "2025-10-26T18:33:56.698453",
+      "duration": 7.958311
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:33:56.698453",
+      "end_time": "2025-10-26T18:34:05.344621",
+      "duration": 8.646168
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:34:05.344621",
+      "end_time": "2025-10-26T18:34:05.429122",
+      "duration": 0.084501
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:34:05.429122",
+      "end_time": "2025-10-26T18:34:07.993550",
+      "duration": 2.564428
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:34:07.993550",
+      "end_time": "2025-10-26T18:34:09.004787",
+      "duration": 1.011237
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:34:09.004787",
+      "end_time": "2025-10-26T18:34:09.944779",
+      "duration": 0.939992
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:34:09.944779",
+      "end_time": "2025-10-26T18:34:12.035220",
+      "duration": 2.090441
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:34:12.035220",
+      "end_time": "2025-10-26T18:34:39.263200",
+      "duration": 27.22798
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:34:39.263200",
+      "end_time": "2025-10-26T18:34:49.359036",
+      "duration": 10.095836
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:34:49.359036",
+      "end_time": "2025-10-26T18:34:50.120231",
+      "duration": 0.761195
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:34:50.120231",
+      "end_time": "2025-10-26T18:34:51.848987",
+      "duration": 1.728756
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:34:51.848987",
+      "end_time": "2025-10-26T18:34:52.337195",
+      "duration": 0.488208
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:34:52.337195",
+      "end_time": "2025-10-26T18:34:53.027120",
+      "duration": 0.689925
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:34:53.027120",
+      "end_time": "2025-10-26T18:35:02.575666",
+      "duration": 9.548546
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:35:02.575666",
+      "end_time": "2025-10-26T18:35:03.835532",
+      "duration": 1.259866
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:35:03.835532",
+      "end_time": "2025-10-26T18:35:06.512289",
+      "duration": 2.676757
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:35:06.512289",
+      "end_time": "2025-10-26T18:35:06.591278",
+      "duration": 0.078989
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:35:06.591278",
+      "end_time": "2025-10-26T18:35:07.356143",
+      "duration": 0.764865
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:35:07.356143",
+      "end_time": "2025-10-26T18:35:10.320644",
+      "duration": 2.964501
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:35:10.320644",
+      "end_time": "2025-10-26T18:35:11.495644",
+      "duration": 1.175
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:35:11.495644",
+      "end_time": "2025-10-26T18:35:11.571796",
+      "duration": 0.076152
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:35:11.571796",
+      "end_time": "2025-10-26T18:35:11.598170",
+      "duration": 0.026374
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:35:11.598170",
+      "end_time": "2025-10-26T18:35:11.703959",
+      "duration": 0.105789
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:35:11.703959",
+      "end_time": "2025-10-26T18:35:12.770575",
+      "duration": 1.066616
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:35:12.770575",
+      "end_time": "2025-10-26T18:35:31.790410",
+      "duration": 19.019835
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:35:31.790410",
+      "end_time": "2025-10-26T18:35:33.078619",
+      "duration": 1.288209
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:35:33.078619",
+      "end_time": "2025-10-26T18:35:33.622841",
+      "duration": 0.544222
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:35:33.622841",
+      "end_time": "2025-10-26T18:35:34.687912",
+      "duration": 1.065071
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:35:34.687912",
+      "end_time": "2025-10-26T18:35:36.304759",
+      "duration": 1.616847
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:35:36.304759",
+      "end_time": "2025-10-26T18:35:39.019001",
+      "duration": 2.714242
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:35:39.019001",
+      "end_time": "2025-10-26T18:35:39.512113",
+      "duration": 0.493112
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:35:39.512113",
+      "end_time": "2025-10-26T18:35:41.101027",
+      "duration": 1.588914
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:35:41.101027",
+      "end_time": "2025-10-26T18:35:43.275613",
+      "duration": 2.174586
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:35:43.275613",
+      "end_time": "2025-10-26T18:35:43.905831",
+      "duration": 0.630218
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:35:43.905831",
+      "end_time": "2025-10-26T18:35:45.335403",
+      "duration": 1.429572
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:35:45.335403",
+      "end_time": "2025-10-26T18:35:49.661360",
+      "duration": 4.325957
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:35:49.661360",
+      "end_time": "2025-10-26T18:35:50.475683",
+      "duration": 0.814323
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:35:50.475683",
+      "end_time": "2025-10-26T18:35:52.581321",
+      "duration": 2.105638
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:35:52.581321",
+      "end_time": "2025-10-26T18:35:56.528315",
+      "duration": 3.946994
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:35:56.528315",
+      "end_time": "2025-10-26T18:36:05.408752",
+      "duration": 8.880437
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:36:05.408752",
+      "end_time": "2025-10-26T18:36:10.199931",
+      "duration": 4.791179
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:36:10.199931",
+      "end_time": "2025-10-26T18:36:10.987999",
+      "duration": 0.788068
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:36:10.987999",
+      "end_time": "2025-10-26T18:36:26.415411",
+      "duration": 15.427412
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:36:26.415411",
+      "end_time": "2025-10-26T18:36:27.964497",
+      "duration": 1.549086
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:36:27.964497",
+      "end_time": "2025-10-26T18:37:06.497084",
+      "duration": 38.532587
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:37:06.497084",
+      "end_time": "2025-10-26T18:37:07.354598",
+      "duration": 0.857514
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:37:07.354598",
+      "end_time": "2025-10-26T18:37:44.637642",
+      "duration": 37.283044
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:37:44.637642",
+      "end_time": "2025-10-26T18:37:45.765346",
+      "duration": 1.127704
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:37:45.765346",
+      "end_time": "2025-10-26T18:38:19.994110",
+      "duration": 34.228764
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:38:19.994110",
+      "end_time": "2025-10-26T18:38:25.411082",
+      "duration": 5.416972
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:38:25.411082",
+      "end_time": "2025-10-26T18:38:30.937059",
+      "duration": 5.525977
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:38:30.937059",
+      "end_time": "2025-10-26T18:38:34.453941",
+      "duration": 3.516882
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:38:34.453941",
+      "end_time": "2025-10-26T18:38:45.340166",
+      "duration": 10.886225
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:38:45.340166",
+      "end_time": "2025-10-26T18:38:46.626864",
+      "duration": 1.286698
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:38:46.626864",
+      "end_time": "2025-10-26T18:38:48.467068",
+      "duration": 1.840204
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:38:48.467068",
+      "end_time": "2025-10-26T18:38:49.688674",
+      "duration": 1.221606
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:38:49.688674",
+      "end_time": "2025-10-26T18:39:28.564073",
+      "duration": 38.875399
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:39:28.564073",
+      "end_time": "2025-10-26T18:39:29.006802",
+      "duration": 0.442729
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:39:29.006802",
+      "end_time": "2025-10-26T18:39:33.192756",
+      "duration": 4.185954
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:39:33.192756",
+      "end_time": "2025-10-26T18:39:43.199860",
+      "duration": 10.007104
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:39:43.199860",
+      "end_time": "2025-10-26T18:39:44.096409",
+      "duration": 0.896549
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:39:44.096409",
+      "end_time": "2025-10-26T18:39:45.039395",
+      "duration": 0.942986
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:39:45.039395",
+      "end_time": "2025-10-26T18:39:51.401437",
+      "duration": 6.362042
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:39:51.401437",
+      "end_time": "2025-10-26T18:39:54.004182",
+      "duration": 2.602745
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:39:54.004182",
+      "end_time": "2025-10-26T18:39:54.848751",
+      "duration": 0.844569
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:39:54.848751",
+      "end_time": "2025-10-26T18:40:12.907362",
+      "duration": 18.058611
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:40:12.907362",
+      "end_time": "2025-10-26T18:40:52.817012",
+      "duration": 39.90965
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:40:52.817012",
+      "end_time": "2025-10-26T18:40:56.615842",
+      "duration": 3.79883
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:40:56.615842",
+      "end_time": "2025-10-26T18:41:23.545971",
+      "duration": 26.930129
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:41:23.545971",
+      "end_time": "2025-10-26T18:41:24.363951",
+      "duration": 0.81798
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:41:24.363951",
+      "end_time": "2025-10-26T18:41:24.907653",
+      "duration": 0.543702
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:41:24.907653",
+      "end_time": "2025-10-26T18:41:27.142259",
+      "duration": 2.234606
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:41:27.142259",
+      "end_time": "2025-10-26T18:41:27.575701",
+      "duration": 0.433442
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:41:27.575701",
+      "end_time": "2025-10-26T18:42:05.369290",
+      "duration": 37.793589
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:42:05.369290",
+      "end_time": "2025-10-26T18:42:05.819767",
+      "duration": 0.450477
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:42:05.819767",
+      "end_time": "2025-10-26T18:42:11.113215",
+      "duration": 5.293448
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:42:11.113215",
+      "end_time": "2025-10-26T18:42:15.816977",
+      "duration": 4.703762
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:42:15.816977",
+      "end_time": "2025-10-26T18:42:18.410489",
+      "duration": 2.593512
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:42:18.410489",
+      "end_time": "2025-10-26T18:42:22.345347",
+      "duration": 3.934858
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:42:22.345347",
+      "end_time": "2025-10-26T18:42:23.610356",
+      "duration": 1.265009
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:42:23.610356",
+      "end_time": "2025-10-26T18:42:25.432730",
+      "duration": 1.822374
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:42:25.432730",
+      "end_time": "2025-10-26T18:42:27.536777",
+      "duration": 2.104047
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:42:27.536777",
+      "end_time": "2025-10-26T18:42:27.948407",
+      "duration": 0.41163
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:42:27.948407",
+      "end_time": "2025-10-26T18:42:34.903003",
+      "duration": 6.954596
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:42:34.903003",
+      "end_time": "2025-10-26T18:42:55.475535",
+      "duration": 20.572532
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:42:55.475535",
+      "end_time": "2025-10-26T18:42:56.348607",
+      "duration": 0.873072
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:42:56.348607",
+      "end_time": "2025-10-26T18:43:04.179196",
+      "duration": 7.830589
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:43:04.179196",
+      "end_time": "2025-10-26T18:43:04.460263",
+      "duration": 0.281067
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:43:04.460263",
+      "end_time": "2025-10-26T18:43:15.118011",
+      "duration": 10.657748
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:43:15.118011",
+      "end_time": "2025-10-26T18:43:17.874805",
+      "duration": 2.756794
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:43:17.874805",
+      "end_time": "2025-10-26T18:43:23.491844",
+      "duration": 5.617039
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:43:23.491844",
+      "end_time": "2025-10-26T18:43:23.600909",
+      "duration": 0.109065
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:43:23.600909",
+      "end_time": "2025-10-26T18:43:23.703953",
+      "duration": 0.103044
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:43:23.703953",
+      "end_time": "2025-10-26T18:43:23.839242",
+      "duration": 0.135289
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:43:23.839242",
+      "end_time": "2025-10-26T18:43:28.713824",
+      "duration": 4.874582
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:43:28.713824",
+      "end_time": "2025-10-26T18:43:34.192230",
+      "duration": 5.478406
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:43:34.192230",
+      "end_time": "2025-10-26T18:43:40.032995",
+      "duration": 5.840765
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:43:40.032995",
+      "end_time": "2025-10-26T18:43:40.691265",
+      "duration": 0.65827
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:43:40.691265",
+      "end_time": "2025-10-26T18:43:41.465818",
+      "duration": 0.774553
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:43:41.465818",
+      "end_time": "2025-10-26T18:43:43.081107",
+      "duration": 1.615289
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:43:43.081107",
+      "end_time": "2025-10-26T18:43:46.023027",
+      "duration": 2.94192
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:43:46.023027",
+      "end_time": "2025-10-26T18:43:51.176925",
+      "duration": 5.153898
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:43:51.176925",
+      "end_time": "2025-10-26T18:43:52.005090",
+      "duration": 0.828165
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:43:52.005090",
+      "end_time": "2025-10-26T18:43:55.835941",
+      "duration": 3.830851
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:43:55.835941",
+      "end_time": "2025-10-26T18:43:56.341996",
+      "duration": 0.506055
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:43:56.341996",
+      "end_time": "2025-10-26T18:43:57.105162",
+      "duration": 0.763166
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:43:57.105162",
+      "end_time": "2025-10-26T18:44:09.242541",
+      "duration": 12.137379
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:44:09.242541",
+      "end_time": "2025-10-26T18:44:27.415886",
+      "duration": 18.173345
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:44:27.415886",
+      "end_time": "2025-10-26T18:44:27.497926",
+      "duration": 0.08204
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:44:27.497926",
+      "end_time": "2025-10-26T18:44:29.013811",
+      "duration": 1.515885
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:44:29.013811",
+      "end_time": "2025-10-26T18:44:31.576670",
+      "duration": 2.562859
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:44:31.576670",
+      "end_time": "2025-10-26T18:44:31.602927",
+      "duration": 0.026257
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:44:31.602927",
+      "end_time": "2025-10-26T18:44:37.381644",
+      "duration": 5.778717
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:44:37.381644",
+      "end_time": "2025-10-26T18:44:39.374642",
+      "duration": 1.992998
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:44:39.374642",
+      "end_time": "2025-10-26T18:44:39.462746",
+      "duration": 0.088104
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:44:39.462746",
+      "end_time": "2025-10-26T18:44:39.498017",
+      "duration": 0.035271
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:44:39.498017",
+      "end_time": "2025-10-26T18:44:39.585763",
+      "duration": 0.087746
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:44:39.585763",
+      "end_time": "2025-10-26T18:44:40.710401",
+      "duration": 1.124638
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:44:40.710401",
+      "end_time": "2025-10-26T18:44:41.989219",
+      "duration": 1.278818
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:44:41.989219",
+      "end_time": "2025-10-26T18:44:45.532605",
+      "duration": 3.543386
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:44:45.532605",
+      "end_time": "2025-10-26T18:44:46.405681",
+      "duration": 0.873076
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:44:46.405681",
+      "end_time": "2025-10-26T18:44:46.436033",
+      "duration": 0.030352
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:44:46.436033",
+      "end_time": "2025-10-26T18:44:46.504625",
+      "duration": 0.068592
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:44:46.504625",
+      "end_time": "2025-10-26T18:44:49.141880",
+      "duration": 2.637255
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:44:49.141880",
+      "end_time": "2025-10-26T18:44:49.989316",
+      "duration": 0.847436
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:44:49.989316",
+      "end_time": "2025-10-26T18:44:56.153976",
+      "duration": 6.16466
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:44:56.153976",
+      "end_time": "2025-10-26T18:44:58.199432",
+      "duration": 2.045456
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:44:58.199432",
+      "end_time": "2025-10-26T18:45:04.280869",
+      "duration": 6.081437
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:45:04.280869",
+      "end_time": "2025-10-26T18:45:30.723321",
+      "duration": 26.442452
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:45:30.723321",
+      "end_time": "2025-10-26T18:45:31.919183",
+      "duration": 1.195862
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:45:31.919183",
+      "end_time": "2025-10-26T18:46:02.942083",
+      "duration": 31.0229
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:46:02.942083",
+      "end_time": "2025-10-26T18:46:04.635120",
+      "duration": 1.693037
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:46:04.635120",
+      "end_time": "2025-10-26T18:46:26.905761",
+      "duration": 22.270641
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:46:26.905761",
+      "end_time": "2025-10-26T18:46:28.706706",
+      "duration": 1.800945
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:46:28.706706",
+      "end_time": "2025-10-26T18:46:29.123827",
+      "duration": 0.417121
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:46:29.123827",
+      "end_time": "2025-10-26T18:46:51.479032",
+      "duration": 22.355205
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:46:51.479032",
+      "end_time": "2025-10-26T18:46:52.472644",
+      "duration": 0.993612
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:46:52.472644",
+      "end_time": "2025-10-26T18:46:54.379298",
+      "duration": 1.906654
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:46:54.379298",
+      "end_time": "2025-10-26T18:46:57.230622",
+      "duration": 2.851324
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:46:57.230622",
+      "end_time": "2025-10-26T18:46:58.543230",
+      "duration": 1.312608
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:46:58.543230",
+      "end_time": "2025-10-26T18:47:00.173467",
+      "duration": 1.630237
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:47:00.173467",
+      "end_time": "2025-10-26T18:47:05.934920",
+      "duration": 5.761453
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:47:05.934920",
+      "end_time": "2025-10-26T18:47:09.504814",
+      "duration": 3.569894
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:47:09.504814",
+      "end_time": "2025-10-26T18:47:21.140108",
+      "duration": 11.635294
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:47:21.140108",
+      "end_time": "2025-10-26T18:47:22.560064",
+      "duration": 1.419956
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:47:22.560064",
+      "end_time": "2025-10-26T18:48:07.591385",
+      "duration": 45.031321
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:48:07.591385",
+      "end_time": "2025-10-26T18:48:20.490940",
+      "duration": 12.899555
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:48:20.490940",
+      "end_time": "2025-10-26T18:48:22.088074",
+      "duration": 1.597134
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:48:22.088074",
+      "end_time": "2025-10-26T18:48:25.181490",
+      "duration": 3.093416
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:48:25.181490",
+      "end_time": "2025-10-26T18:48:27.140689",
+      "duration": 1.959199
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:48:27.140689",
+      "end_time": "2025-10-26T18:48:28.350495",
+      "duration": 1.209806
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:48:28.350495",
+      "end_time": "2025-10-26T18:48:37.802524",
+      "duration": 9.452029
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:48:37.802524",
+      "end_time": "2025-10-26T18:48:37.942666",
+      "duration": 0.140142
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:48:37.942666",
+      "end_time": "2025-10-26T18:49:33.224008",
+      "duration": 55.281342
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:49:33.224008",
+      "end_time": "2025-10-26T18:49:33.517810",
+      "duration": 0.293802
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:49:33.517810",
+      "end_time": "2025-10-26T18:49:40.157189",
+      "duration": 6.639379
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:49:40.157189",
+      "end_time": "2025-10-26T18:49:40.822446",
+      "duration": 0.665257
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:49:40.822446",
+      "end_time": "2025-10-26T18:49:52.557191",
+      "duration": 11.734745
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:49:52.557191",
+      "end_time": "2025-10-26T18:49:54.296980",
+      "duration": 1.739789
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:49:54.296980",
+      "end_time": "2025-10-26T18:50:11.628692",
+      "duration": 17.331712
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:50:11.628692",
+      "end_time": "2025-10-26T18:50:11.867913",
+      "duration": 0.239221
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:50:11.867913",
+      "end_time": "2025-10-26T18:50:12.077566",
+      "duration": 0.209653
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:50:12.077566",
+      "end_time": "2025-10-26T18:50:15.431658",
+      "duration": 3.354092
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:50:15.431658",
+      "end_time": "2025-10-26T18:50:34.187454",
+      "duration": 18.755796
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:50:34.187454",
+      "end_time": "2025-10-26T18:50:35.455142",
+      "duration": 1.267688
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:50:35.455142",
+      "end_time": "2025-10-26T18:50:36.465678",
+      "duration": 1.010536
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:50:36.465678",
+      "end_time": "2025-10-26T18:50:38.613129",
+      "duration": 2.147451
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:50:38.613129",
+      "end_time": "2025-10-26T18:50:40.116504",
+      "duration": 1.503375
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:50:40.116504",
+      "end_time": "2025-10-26T18:50:58.683742",
+      "duration": 18.567238
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:50:58.683742",
+      "end_time": "2025-10-26T18:51:03.817636",
+      "duration": 5.133894
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:51:03.817636",
+      "end_time": "2025-10-26T18:51:18.266903",
+      "duration": 14.449267
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:51:18.266903",
+      "end_time": "2025-10-26T18:51:32.912568",
+      "duration": 14.645665
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:51:32.912568",
+      "end_time": "2025-10-26T18:51:33.342171",
+      "duration": 0.429603
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:51:33.342171",
+      "end_time": "2025-10-26T18:51:40.086658",
+      "duration": 6.744487
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:51:40.086658",
+      "end_time": "2025-10-26T18:51:40.473199",
+      "duration": 0.386541
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:51:40.473199",
+      "end_time": "2025-10-26T18:51:41.113712",
+      "duration": 0.640513
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:51:41.113712",
+      "end_time": "2025-10-26T18:51:43.588823",
+      "duration": 2.475111
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:51:43.588823",
+      "end_time": "2025-10-26T18:51:45.353218",
+      "duration": 1.764395
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:51:45.353218",
+      "end_time": "2025-10-26T18:51:45.862658",
+      "duration": 0.50944
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:51:45.862658",
+      "end_time": "2025-10-26T18:51:48.227163",
+      "duration": 2.364505
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:51:48.227163",
+      "end_time": "2025-10-26T18:51:51.726223",
+      "duration": 3.49906
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:51:51.726223",
+      "end_time": "2025-10-26T18:51:55.730091",
+      "duration": 4.003868
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:51:55.730091",
+      "end_time": "2025-10-26T18:51:57.815747",
+      "duration": 2.085656
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:51:57.815747",
+      "end_time": "2025-10-26T18:52:02.353783",
+      "duration": 4.538036
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:52:02.353783",
+      "end_time": "2025-10-26T18:52:05.170952",
+      "duration": 2.817169
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:52:05.170952",
+      "end_time": "2025-10-26T18:52:06.378712",
+      "duration": 1.20776
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:52:06.378712",
+      "end_time": "2025-10-26T18:52:07.553443",
+      "duration": 1.174731
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:52:07.553443",
+      "end_time": "2025-10-26T18:52:21.398600",
+      "duration": 13.845157
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:52:21.398600",
+      "end_time": "2025-10-26T18:52:21.729376",
+      "duration": 0.330776
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:52:21.729376",
+      "end_time": "2025-10-26T18:53:39.962686",
+      "duration": 78.23331
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:53:39.962686",
+      "end_time": "2025-10-26T18:53:40.442199",
+      "duration": 0.479513
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:53:40.442199",
+      "end_time": "2025-10-26T18:53:47.177439",
+      "duration": 6.73524
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:53:47.177439",
+      "end_time": "2025-10-26T18:53:48.187937",
+      "duration": 1.010498
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:53:48.187937",
+      "end_time": "2025-10-26T18:53:50.160497",
+      "duration": 1.97256
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:53:50.160497",
+      "end_time": "2025-10-26T18:53:50.676577",
+      "duration": 0.51608
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:53:50.676577",
+      "end_time": "2025-10-26T18:53:53.463354",
+      "duration": 2.786777
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:53:53.463354",
+      "end_time": "2025-10-26T18:53:55.738409",
+      "duration": 2.275055
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:53:55.738409",
+      "end_time": "2025-10-26T18:53:55.962837",
+      "duration": 0.224428
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:53:55.962837",
+      "end_time": "2025-10-26T18:53:58.439244",
+      "duration": 2.476407
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:53:58.439244",
+      "end_time": "2025-10-26T18:53:59.504730",
+      "duration": 1.065486
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:53:59.504730",
+      "end_time": "2025-10-26T18:54:00.962379",
+      "duration": 1.457649
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:54:00.962379",
+      "end_time": "2025-10-26T18:54:03.670524",
+      "duration": 2.708145
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:54:03.670524",
+      "end_time": "2025-10-26T18:54:06.319755",
+      "duration": 2.649231
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:54:06.319755",
+      "end_time": "2025-10-26T18:54:30.613550",
+      "duration": 24.293795
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:54:30.613550",
+      "end_time": "2025-10-26T18:54:42.919085",
+      "duration": 12.305535
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:54:42.919085",
+      "end_time": "2025-10-26T18:54:45.752916",
+      "duration": 2.833831
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:54:45.752916",
+      "end_time": "2025-10-26T18:54:47.794961",
+      "duration": 2.042045
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:54:47.794961",
+      "end_time": "2025-10-26T18:54:55.426053",
+      "duration": 7.631092
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:54:55.426053",
+      "end_time": "2025-10-26T18:55:23.654479",
+      "duration": 28.228426
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:55:23.654479",
+      "end_time": "2025-10-26T18:55:25.522367",
+      "duration": 1.867888
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:55:25.522367",
+      "end_time": "2025-10-26T18:55:39.040783",
+      "duration": 13.518416
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:55:39.040783",
+      "end_time": "2025-10-26T18:55:40.564443",
+      "duration": 1.52366
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:55:40.564443",
+      "end_time": "2025-10-26T18:55:41.227820",
+      "duration": 0.663377
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:55:41.227820",
+      "end_time": "2025-10-26T18:55:42.017214",
+      "duration": 0.789394
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:55:42.017214",
+      "end_time": "2025-10-26T18:55:47.734110",
+      "duration": 5.716896
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:55:47.734110",
+      "end_time": "2025-10-26T18:55:53.005140",
+      "duration": 5.27103
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:55:53.005140",
+      "end_time": "2025-10-26T18:56:00.180074",
+      "duration": 7.174934
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:56:00.180074",
+      "end_time": "2025-10-26T18:56:01.470002",
+      "duration": 1.289928
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:56:01.470002",
+      "end_time": "2025-10-26T18:56:02.087809",
+      "duration": 0.617807
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:56:02.087809",
+      "end_time": "2025-10-26T18:56:02.721792",
+      "duration": 0.633983
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:56:02.721792",
+      "end_time": "2025-10-26T18:56:07.096058",
+      "duration": 4.374266
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:56:07.096058",
+      "end_time": "2025-10-26T18:56:07.923998",
+      "duration": 0.82794
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:56:07.923998",
+      "end_time": "2025-10-26T18:57:02.154514",
+      "duration": 54.230516
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:57:02.154514",
+      "end_time": "2025-10-26T18:57:07.391703",
+      "duration": 5.237189
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:57:07.391703",
+      "end_time": "2025-10-26T18:57:07.478603",
+      "duration": 0.0869
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:57:07.478603",
+      "end_time": "2025-10-26T18:57:07.585202",
+      "duration": 0.106599
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:57:07.585202",
+      "end_time": "2025-10-26T18:57:09.135145",
+      "duration": 1.549943
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:57:09.135145",
+      "end_time": "2025-10-26T18:57:14.598019",
+      "duration": 5.462874
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:57:14.598019",
+      "end_time": "2025-10-26T18:57:17.215739",
+      "duration": 2.61772
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:57:17.215739",
+      "end_time": "2025-10-26T18:57:19.575906",
+      "duration": 2.360167
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:57:19.575906",
+      "end_time": "2025-10-26T18:57:23.912972",
+      "duration": 4.337066
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:57:23.912972",
+      "end_time": "2025-10-26T18:57:26.560332",
+      "duration": 2.64736
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:57:26.560332",
+      "end_time": "2025-10-26T18:57:27.481869",
+      "duration": 0.921537
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:57:27.481869",
+      "end_time": "2025-10-26T18:57:29.293097",
+      "duration": 1.811228
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:57:29.293097",
+      "end_time": "2025-10-26T18:57:40.135902",
+      "duration": 10.842805
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:57:40.135902",
+      "end_time": "2025-10-26T18:57:40.939667",
+      "duration": 0.803765
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:57:40.939667",
+      "end_time": "2025-10-26T18:57:44.562750",
+      "duration": 3.623083
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:57:44.562750",
+      "end_time": "2025-10-26T18:57:45.612327",
+      "duration": 1.049577
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:57:45.612327",
+      "end_time": "2025-10-26T18:57:47.736952",
+      "duration": 2.124625
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:57:47.736952",
+      "end_time": "2025-10-26T18:57:49.539759",
+      "duration": 1.802807
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:57:49.539759",
+      "end_time": "2025-10-26T18:57:54.105869",
+      "duration": 4.56611
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:57:54.105869",
+      "end_time": "2025-10-26T18:57:55.086775",
+      "duration": 0.980906
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:57:55.086775",
+      "end_time": "2025-10-26T18:57:55.638634",
+      "duration": 0.551859
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:57:55.638634",
+      "end_time": "2025-10-26T18:57:59.425692",
+      "duration": 3.787058
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:57:59.425692",
+      "end_time": "2025-10-26T18:58:10.077908",
+      "duration": 10.652216
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:58:10.077908",
+      "end_time": "2025-10-26T18:58:13.576276",
+      "duration": 3.498368
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:58:13.576276",
+      "end_time": "2025-10-26T18:58:26.435937",
+      "duration": 12.859661
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:58:26.435937",
+      "end_time": "2025-10-26T18:58:29.479720",
+      "duration": 3.043783
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T18:58:29.479720",
+      "end_time": "2025-10-26T18:58:56.418809",
+      "duration": 26.939089
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:58:56.418809",
+      "end_time": "2025-10-26T18:58:57.452050",
+      "duration": 1.033241
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:58:57.452050",
+      "end_time": "2025-10-26T18:59:07.031109",
+      "duration": 9.579059
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:59:07.031109",
+      "end_time": "2025-10-26T18:59:07.183571",
+      "duration": 0.152462
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:59:07.183571",
+      "end_time": "2025-10-26T18:59:07.311411",
+      "duration": 0.12784
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:59:07.311411",
+      "end_time": "2025-10-26T18:59:07.464564",
+      "duration": 0.153153
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:59:07.464564",
+      "end_time": "2025-10-26T18:59:09.412273",
+      "duration": 1.947709
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:59:09.412273",
+      "end_time": "2025-10-26T18:59:09.448388",
+      "duration": 0.036115
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:59:09.448388",
+      "end_time": "2025-10-26T18:59:09.856868",
+      "duration": 0.40848
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:59:09.856868",
+      "end_time": "2025-10-26T18:59:10.008052",
+      "duration": 0.151184
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:59:10.008052",
+      "end_time": "2025-10-26T18:59:10.095595",
+      "duration": 0.087543
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:59:10.095595",
+      "end_time": "2025-10-26T18:59:10.121167",
+      "duration": 0.025572
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:59:10.121167",
+      "end_time": "2025-10-26T18:59:10.412073",
+      "duration": 0.290906
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:59:10.412073",
+      "end_time": "2025-10-26T18:59:10.475327",
+      "duration": 0.063254
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:59:10.475327",
+      "end_time": "2025-10-26T18:59:11.421403",
+      "duration": 0.946076
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:59:11.421403",
+      "end_time": "2025-10-26T18:59:11.489923",
+      "duration": 0.06852
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:59:11.489923",
+      "end_time": "2025-10-26T18:59:11.577353",
+      "duration": 0.08743
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T18:59:11.577353",
+      "end_time": "2025-10-26T18:59:11.611050",
+      "duration": 0.033697
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T18:59:11.611050",
+      "end_time": "2025-10-26T19:00:06.474197",
+      "duration": 54.863147
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T19:00:06.474197",
+      "end_time": "2025-10-26T19:00:06.522295",
+      "duration": 0.048098
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T19:00:06.522295",
+      "end_time": "2025-10-26T19:07:18.321954",
+      "duration": 431.799659
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T19:07:18.321954",
+      "end_time": "2025-10-26T19:07:18.359644",
+      "duration": 0.03769
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T19:07:18.359644",
+      "end_time": "2025-10-26T19:13:38.879910",
+      "duration": 380.520266
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T19:13:38.879910",
+      "end_time": "2025-10-26T19:13:38.916706",
+      "duration": 0.036796
+    },
+    {
+      "status": "offline",
+      "start_time": "2025-10-26T19:13:38.916706",
+      "end_time": "2025-10-26T19:15:41.779017",
+      "duration": 122.862311
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T19:15:41.779017",
+      "end_time": "2025-10-26T19:15:44.759260",
+      "duration": 2.980243
+    },
+    {
+      "status": "attention",
+      "start_time": "2025-10-26T19:15:44.759260",
+      "end_time": "2025-10-26T19:15:57.281750",
+      "duration": 12.52249
+    },
+    {
+      "status": "inattention",
+      "start_time": "2025-10-26T19:15:57.281750",
+      "end_time": "2025-10-26T19:16:01.651960",
+      "duration": 4.37021
+    }
+  ],
+  "last_updated": "2025-10-26T19:16:01.651999"
+}
